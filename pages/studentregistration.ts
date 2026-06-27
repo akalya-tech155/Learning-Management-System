@@ -1,0 +1,16 @@
+/*
+Scenario
+
+A new student registers on the portal.
+
+Pages
+Login
+Student Registration
+Test Cases
+Register new student
+Mandatory field validation
+Invalid email validation
+Duplicate student validation
+Successful registration
+Files
+*/
