@@ -1,0 +1,22 @@
+/*
+Scenario
+
+Student enrolls in a course.
+
+Example
+
+Course
+
+Playwright Automation
+
+Click Enroll
+
+Verify Success Message
+
+Test Cases
+
+Enroll in course
+Duplicate enrollment
+Verify enrolled course list
+Cancel enrollment
+*/
